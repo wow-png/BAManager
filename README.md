@@ -5,3 +5,4 @@ After that launch TrajectoryEditor.exe
 For any questions join https://discord.gg/ZQYtmvMqW and ping me(pamparampamboom) or just directly dm me.
 After editing files click Save all below.
 Manager supports in-game editing(during testing you can edit data without needing to re-launch the game)
+All updates are on releases.download from there.
